@@ -1,0 +1,12 @@
+net\utkine\library\form\Book.class
+net\utkine\library\service\AuthorService.class
+net\utkine\library\service\BookService.class
+net\utkine\library\dao\BookDAOImpl.class
+net\utkine\library\dao\AuthorDAOImpl.class
+net\utkine\library\form\Author.class
+net\utkine\library\dao\BookDAO.class
+net\utkine\library\service\BookServiceImpl.class
+net\utkine\library\service\AuthorServiceImpl.class
+net\utkine\library\controller\AuthorController.class
+net\utkine\library\controller\BookController.class
+net\utkine\library\dao\AuthorDAO.class
